@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://terminalroot.com/assets/img/dart/flutter-dart.jpg)](https://terminalroot.com/assets/img/dart/flutter-dart.jpg)"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://terminalroot.com/assets/img/dart/flutter-dart.jpg"/>
 </div>
 
 # 💫 About Me:
