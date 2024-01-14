@@ -1,4 +1,4 @@
-<img src="https://terminalroot.com/assets/img/dart/flutter-dart.jpg"/>
+<img src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_647ecd43c5092e1c431f22fd_Flutter_App_Development_A_Step_by_Step_Tutorial_With_Dhi_Wise_E2_80_99s_Flutter_Builder_OG_Image_62b760b8fe.jpg"/>
 
 # 💫 About Me:
 Hello there! I am a skilled Flutter developer with a passion for crafting efficient and user-friendly mobile applications. With a strong background in mobile app development, I specialize in using the Flutter framework to create cross-platform solutions that deliver seamless and engaging user experiences. My expertise extends to designing and implementing innovative features, ensuring high performance, and maintaining code quality. Committed to staying abreast of the latest industry trends, I bring a dynamic and forward-thinking approach to every project I undertake. Let's build something incredible together!
