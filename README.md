@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # 💫 About Me:
 Hello there! I am a skilled Flutter developer with a passion for crafting efficient and user-friendly mobile applications. With a strong background in mobile app development, I specialize in using the Flutter framework to create cross-platform solutions that deliver seamless and engaging user experiences. My expertise extends to designing and implementing innovative features, ensuring high performance, and maintaining code quality. Committed to staying abreast of the latest industry trends, I bring a dynamic and forward-thinking approach to every project I undertake. Let's build something incredible together!
 
