@@ -16,7 +16,7 @@
         I am a <b>Flutter developer</b> 🚀 from <b>Gwalior, India</b>.<br />
         I love building side projects 😍, and most of them are <b>Open source</b>. </p>
     <div>
-        <a href="https://www.linkedin.com/in/aromalanil" target="_blank"><img alt="LinkedIn"
+        <a href="https://www.linkedin.com/in/mohit-prajapati-3770551a2" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
           <a href="mailto:immohitpraja@gmail.com" target="_blank">
         <img alt="Gmail"
@@ -44,10 +44,32 @@ Hello there! I am a skilled Flutter developer with a passion for crafting effici
 
 <h2> 💻 Tech Stack: </h2>
 
-<img width="20%" alt="Android" src="assets/android.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//flutter.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//dart.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//firebase.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//android.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//gradle.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//json.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//yaml.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//mysql.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//playstore.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//regexp.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//git.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//java.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//postman.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//canva.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//figma.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//html.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//css.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//javascript.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//nodejs.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//npm.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//netlify.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//vercel.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//kaggle.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//tensorflow.svg" />
+<img width="10%" alt="Android" src="assets/skillslogo//commonmark.svg" />
 
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
 
