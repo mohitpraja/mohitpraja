@@ -20,11 +20,15 @@
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
           <a href="mailto:immohitpraja@gmail.com" target="_blank">
         <img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-          <a href="" target="_blank">
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+          <a href="https://www.github.com/mohitpraja" target="_blank">
         <img alt="Github"
-                src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white" /></a>
-          <a href="https://github.com/mohitpraja" target="_blank">
+                src="https://img.shields.io/badge/-Github-424345?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="" target="_blank">
+          <a href="https://mohitpraja.netlify.com" target="_blank">
+        <img alt="Portfolio"
+                src="https://img.shields.io/badge/-Portfolio-36a5d1?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+          <a href="" target="_blank">
         <!-- <img alt="Medium"
                 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> -->
         <!-- <a href="https://www.dribbble.com/aromalanil"><img alt="Dribbble"
@@ -43,32 +47,57 @@
 Hello there! I am a skilled Flutter developer with a passion for crafting efficient and user-friendly mobile applications. With a strong background in mobile app development, I specialize in using the Flutter framework to create cross-platform solutions that deliver seamless and engaging user experiences. My expertise extends to designing and implementing innovative features, ensuring high performance, and maintaining code quality. Committed to staying abreast of the latest industry trends, I bring a dynamic and forward-thinking approach to every project I undertake. Let's build something incredible together!
 
 <h2> 💻 Tech Stack: </h2>
+<p align = "left"> 
 
-<img width="10%" alt="Android" src="assets/skillslogo//flutter.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//dart.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//firebase.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//android.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//gradle.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//json.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//yaml.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//mysql.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//playstore.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//regexp.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//git.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//java.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//postman.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//canva.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//figma.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//html.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//css.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//javascript.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//nodejs.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//npm.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//netlify.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//vercel.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//kaggle.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//tensorflow.svg" />
-<img width="10%" alt="Android" src="assets/skillslogo//commonmark.svg" />
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="dart" width="30" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="dart" width="30" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="dart" width="70" height="30"/> 
+ </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="dart" width="30" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="dart" width="80" height="25"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="dart" width="30" height="25"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="dart" width="30" height="25"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="dart" width="80" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="dart" width="30" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="dart" width="70" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="dart" width="30" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="dart" width="30" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="dart" width="30" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="dart" width="35" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="dart" width="80" height="30"/> 
+ </a> 
+</p>
+ <p align="left">
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="dart" width="80" height="30"/> 
+ </a>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="dart" width="30" height="30"/> 
+ </a>  
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="dart" width="80" height="30"/> 
+ </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="dart" width="80" height="30"/> 
+ </a> 
+ </p>
+
+
+
+
 
 
 # 📊 GitHub Stats:
