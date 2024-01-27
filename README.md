@@ -92,4 +92,6 @@ Hello there! I am a skilled Flutter developer with a passion for crafting effici
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitpraja&theme=transparent" width="80%">
 </div>
 
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=mohitpraja&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpraja" /> </h3>
+
 
