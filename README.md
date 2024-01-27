@@ -9,7 +9,7 @@
  <a href="https://mohitpraja.netlify.com" target="_blank">Mohit Praja</a>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
  <br>
- <!-- <br> -->
+ <br>
  </h1>
 
  <img src="assets/developer_code.gif" alt="Developer Code" width="60%">
@@ -54,7 +54,7 @@ Hello there! I am a skilled Flutter developer with a passion for crafting effici
 - ⚡&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The first rule of programming- if it works, don’t touch it.🤓.<br>
 
 <br>
-<h3> 💻 Tech Stack </h3>
+<h3> 💻 Tech Stack <br><br></h3>
 <p align = "left"> 
 
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> 
@@ -83,21 +83,11 @@ Hello there! I am a skilled Flutter developer with a passion for crafting effici
 <br>
 <h3> 📊 GitHub Stats </h3>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitpraja&theme=default" width="80%">
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitpraja&theme=transparent" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitpraja&theme=transparent" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitpraja&theme=transparent&utcOffset=8" width="32.5%">
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitpraja&theme=transparent" width="80%">
 </div>
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=mohitpraja&theme=blue-green)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohitpraja&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitpraja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
