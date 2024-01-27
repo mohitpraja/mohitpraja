@@ -66,17 +66,11 @@ Hello there! I am a skilled Flutter developer with a passion for crafting effici
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="dart" width="30" height="30"/> 
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="dart" width="35" height="30"/> 
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="dart" width="80" height="30"/> 
-</p>
-<p align="left">
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="dart" width="80" height="30"/> 
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="dart" width="30" height="30"/>  
 <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="dart" width="80" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="dart" width="80" height="30"/> 
- </p>
-
-
-
-
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="dart" width="80" height="35"/> 
+</p>
 
 
 # 📊 GitHub Stats:
