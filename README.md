@@ -80,7 +80,6 @@ Hello there! I am a skilled Flutter developer with a passion for crafting effici
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="dart" width="80" height="35"/> 
 </p>
 
-<br>
 <h3> 📊 GitHub Stats </h3>
 <div align="center">
 <br>
@@ -88,6 +87,9 @@ Hello there! I am a skilled Flutter developer with a passion for crafting effici
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitpraja&theme=transparent" width="32.5%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitpraja&theme=transparent&utcOffset=8" width="32.5%">
 <br>
+<br>
+<br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitpraja&theme=transparent" width="80%">
 </div>
+
 
