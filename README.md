@@ -3,12 +3,13 @@
 ![](assets/header.png)
 
 <!-- <h1 align="center">Hello, I'm Mohit Prajapati</h1> -->
-<br>
+<!-- <br> -->
 <div align = "center">
  <h1>Hi, I am 
  <a href="https://mohitpraja.netlify.com" target="_blank">Mohit Praja</a>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
- <br><br>
+ <br>
+ <!-- <br> -->
  </h1>
 
  <img src="assets/developer_code.gif" alt="Developer Code" width="60%">
@@ -40,13 +41,20 @@
 <br>
 <br>
 
-<h2> 💫 About Me: </h2>
+<h3>💫 About Me</h3>
 
 <img width="50%" align="right" alt="Github" src="assets/side-image.svg" />
 
 Hello there! I am a skilled Flutter developer with a passion for crafting efficient and user-friendly mobile applications. With a strong background in mobile app development, I specialize in using the Flutter framework to create cross-platform solutions that deliver seamless and engaging user experiences. My expertise extends to designing and implementing innovative features, ensuring high performance, and maintaining code quality. Committed to staying abreast of the latest industry trends, I bring a dynamic and forward-thinking approach to every project I undertake. Let's build something incredible together!
 
-<h2> 💻 Tech Stack: </h2>
+
+- 🌱&nbsp;&nbsp;&nbsp;I’m currently learning **WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- 🔭&nbsp;&nbsp;&nbsp;I like exploring **Machine Learning**. <br>
+- 📫&nbsp;&nbsp;&nbsp;Ask me about **Pc building, Movies, or anything**. <br>
+- ⚡&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The first rule of programming- if it works, don’t touch it.🤓.<br>
+
+<br>
+<h3> 💻 Tech Stack </h3>
 <p align = "left"> 
 
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> 
@@ -72,14 +80,17 @@ Hello there! I am a skilled Flutter developer with a passion for crafting effici
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="dart" width="80" height="35"/> 
 </p>
 
+<br>
+<h3> 📊 GitHub Stats </h3>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitpraja&theme=default" width="80%">
+</div>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=mohitpraja&theme=blue-green)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=mohitpraja&theme=blue-green)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohitpraja&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitpraja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitpraja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ### ✍️ Random Dev Quote
 
