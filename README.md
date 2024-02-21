@@ -30,6 +30,10 @@
         <img alt="Portfolio"
                 src="https://img.shields.io/badge/-Portfolio-36a5d1?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
           <a href="" target="_blank">
+          <a href="https://play.google.com/store/apps/dev?id=4799245084988086634" target="_blank">
+        <img alt="PlayStore"
+                src="https://img.shields.io/badge/-PlayStore-f54257?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+          <a href="" target="_blank">
         <!-- <img alt="Medium"
                 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" -->
         <!-- <a href="https://www.dribbble.com/aromalanil"><img alt="Dribbble"
