@@ -26,7 +26,7 @@
         <img alt="Github"
                 src="https://img.shields.io/badge/-Github-424345?style=for-the-badge&logo=github&logoColor=white" /></a>
           <a href="" target="_blank">
-          <a href="https://mohitpraja.netlify.com" target="_blank">
+          <a href="https://mohitpraja.netlify.app" target="_blank">
         <img alt="Portfolio"
                 src="https://img.shields.io/badge/-Portfolio-36a5d1?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
           <a href="" target="_blank">
