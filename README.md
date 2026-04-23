@@ -59,29 +59,29 @@ Hello there! I am a skilled Flutter developer with a passion for crafting effici
 
 <br>
 <h3> 💻 Tech Stack <br><br></h3>
-<p align = "left"> 
 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="dart" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="dart" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="dart" width="70" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="dart" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="dart" width="80" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="dart" width="30" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="dart" width="30" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="dart" width="80" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="dart" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="dart" width="70" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="dart" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="dart" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="dart" width="30" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="dart" width="35" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="dart" width="80" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="dart" width="80" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="dart" width="30" height="30"/>  
-<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="dart" width="80" height="30"/> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="dart" width="80" height="35"/> 
+<p align="left">
+ <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="dart" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="dart" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="dart" width="70"/> 
+<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="dart" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="dart" width="80"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="dart" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="dart" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="dart" width="80"/> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="dart" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="dart" width="70"/> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="dart" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="dart" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="dart" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="dart" width="35"/> 
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="dart" width="80" /> 
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="dart" width="80"/> 
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="dart" width="30"/>  
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="dart" width="80"/> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="dart" width="80"/> 
 </p>
 
 <h3> 📊 GitHub Stats </h3>
